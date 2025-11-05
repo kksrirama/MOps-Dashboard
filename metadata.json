@@ -1,0 +1,5 @@
+{
+  "name": "Manufacturing Operations Dashboard",
+  "description": "A comprehensive dashboard for a manufacturing plant manager to monitor all operations and assets in real-time, featuring an AI-powered analyst for data-driven insights.",
+  "requestFramePermissions": []
+}
